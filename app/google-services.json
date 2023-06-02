@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "977775976860",
+    "firebase_url": "https://teknomoto-e8058-default-rtdb.firebaseio.com",
+    "project_id": "teknomoto-e8058",
+    "storage_bucket": "teknomoto-e8058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977775976860:android:0ebbb8d3698a7ecc996859",
+        "android_client_info": {
+          "package_name": "com.example.nyumbakumiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5smsjE2ZKWE09FoskP1ngi1RReLh-avY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
