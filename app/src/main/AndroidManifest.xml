@@ -13,6 +13,12 @@
         android:theme="@style/Theme.NyumbaKumiApp"
         tools:targetApi="31">
         <activity
+            android:name=".ViewHousesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddHousesActivity"
+            android:exported="false" />
+        <activity
             android:name=".DashboardActivity"
             android:exported="false" />
         <activity
